@@ -9,6 +9,6 @@ This effect can be enhanced by appropriate material and optical structures. The 
 The goal was to understand various concepts of quantum electronics, analysis of material and results as well as the possible applications.
 Method of analysis was based on the physical and mathematical tools developed in the course.
 
-Finally, the design possible applications was asked.
+Finally, the design of possible applications was asked.
 
 *Slides are available on Github (in English).*
